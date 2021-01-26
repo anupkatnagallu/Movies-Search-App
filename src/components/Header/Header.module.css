@@ -1,0 +1,17 @@
+.Header {
+    background-color: #eee;
+    box-sizing: border-box;
+    width: 80%;
+    margin: auto;
+    padding: 60px;
+}
+
+.Header h1 {
+    font-size: 350%;
+    font-weight: 500;
+    margin: 0;
+}
+
+.Header p {
+    font-size: 130%;
+}

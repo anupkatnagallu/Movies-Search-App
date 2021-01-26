@@ -1,0 +1,11 @@
+.Search {
+    padding: 8px 10px;
+    margin: 10px 20px;
+    background-color: rgb(247, 247, 247);
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.Search:focus {
+    background-color: rgb(255, 236, 212);
+}

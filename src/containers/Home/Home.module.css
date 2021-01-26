@@ -1,0 +1,16 @@
+.Home {
+    width: 80%;
+    margin: auto;
+}
+
+.SearchMovie {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.MovieDetails {
+    display: flex;
+    flex-wrap: wrap;
+}
